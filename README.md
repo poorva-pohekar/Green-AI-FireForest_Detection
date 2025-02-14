@@ -24,3 +24,8 @@ Required Libraries:
 - Deploy as a mobile app for quick alerts
 - Improve accuracy using advannced deep learning models
 - Implement cloud-based alert system
+
+## Contributor
+Poorva Pohekar
+
+## this project is open-source and available under the MIT License. 
